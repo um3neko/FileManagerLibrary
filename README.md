@@ -18,9 +18,9 @@ EditRecord(int recordIndex, Record record)
 AddRecord(Record record)
 DeleteRecord(int recordIndex)
 ------------------------------------------
-
 In the client application describes examples of using the library
-
+------------------------------------------
+To open the use case application you need to copy the repository to a separate folder, open the solution in visual studio and run the client application in development mode
 ------------------------------------------
 Unfortunately, for now, the library works in single-threaded mode.
 But it is open to improvement.
