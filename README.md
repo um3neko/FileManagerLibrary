@@ -13,6 +13,7 @@ Using the methods of the FileFormatter class, we can initially create it (you wi
 We can also read a file into memory using the LoadFile method, which takes a path.extension string as a parameter.
 
 Using the methods described below, we can perform operations on file data.
+
 EditRecord(int recordIndex, Record record)
 AddRecord(Record record)
 DeleteRecord(int recordIndex)
