@@ -6,7 +6,7 @@ In the FileFormatter class, when loading a new file type, add a new file extensi
 
 The library has methods for working on a collection of files. It performs CRUD operations on files of a given structure on xml example.
 
-------------------------------------------
+
 <?xml version="1.0" encoding="utf-8"?>
 <Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Cars>
@@ -17,7 +17,7 @@ The library has methods for working on a collection of files. It performs CRUD o
     </Car>
   </Cars>
 </Document>
-------------------------------------------
+
 
 Using the methods of the FileFormatter class, we can initially create it (you will need to save it from memory to disk using the SaveFile method, which takes enum FileFormat and path.extension as a parameter).
 
