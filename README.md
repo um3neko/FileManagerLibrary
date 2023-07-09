@@ -6,9 +6,7 @@ In the FileFormatter class, when loading a new file type, add a new file extensi
 
 The library has methods for working on a collection of files. It performs CRUD operations on files of a given structure on xml example.
 
-
-<?xml version="1.0" encoding="utf-8"?>
-<Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<Document>
   <Cars>
     <Car>
       <Date>2023-07-09T19:24:48.792245Z</Date>
