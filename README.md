@@ -19,4 +19,4 @@ AddRecord(Record record)
 DeleteRecord(int recordIndex)
 ------------------------------------------
 Unfortunately, for now, the library works in single-threaded mode.
-But she is open to improvement.
+But it is open to improvement.
