@@ -18,5 +18,9 @@ EditRecord(int recordIndex, Record record)
 AddRecord(Record record)
 DeleteRecord(int recordIndex)
 ------------------------------------------
+
+In the client application describes examples of using the library
+
+------------------------------------------
 Unfortunately, for now, the library works in single-threaded mode.
 But it is open to improvement.
